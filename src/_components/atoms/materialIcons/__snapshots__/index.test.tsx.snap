@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon testing Matches snapshot 1`] = `
+<div>
+  <span
+    aria-hidden="true"
+    class="material-icons MuiIcon-root  material-icons-outlined"
+    style="color: rgb(0, 0, 0);"
+  />
+</div>
+`;
